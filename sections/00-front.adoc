@@ -1,0 +1,52 @@
+= OSCCA Extensions For OpenPGP
+Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jack E. Lloyd <jack@randombit.net>; Daniel Elliot Wyatt <daniel.wyatt@ribose.com>; Erick Borsboom <erick.borsboom@ribose.com>
+:category: std
+:docName: draft-openpgp-oscca-02
+:updates: 4880, 6637
+:ipr: trust200902
+:date: 2017-09-14T00:00:00Z
+:area: Internet
+:workgroup: Network Working Group
+:lastname: Tse
+:fullname: Ronald Henry Tse
+:organization: Ribose
+:email: ronald.tse@ribose.com
+:uri: https://www.ribose.com
+:street: Suite 1111, 1 Pedder Street
+:city: Central
+:region: Hong Kong
+:country: Hong Kong
+:lastname_2: Wong
+:fullname_2: Dr. Wai Kit Wong
+:organization_2: Hang Seng Management College
+:email_2: wongwk@hsmc.edu.hk
+:uri_2: https://www.hsmc.edu.hk
+:street_2: Hang Shin Link, Siu Lek Yuen
+:city_2: Shatin
+:region_2: New Territories
+:country_2: Hong Kong
+:lastname_3: Lloyd
+:fullname_3: Jack E. Lloyd
+:organization_3: Ribose
+:email_3: jack@randombit.net
+:uri_3: https://www.ribose.com
+:country_3: United States of America
+:lastname_4: Wyatt
+:fullname_4: Daniel Elliot Wyatt
+:organization_4: Ribose
+:email_4: daniel.wyatt@ribose.com
+:uri_4: https://www.ribose.com
+:street_4: 608 W Cork St, Apt 2
+:city_4: Winchester
+:region_4: VA
+:country_4: United States of America
+:lastname_5: Borsboom
+:fullname_5: Erick Borsboom
+:organization_5: Ribose
+:email_5: erick.borsboom@ribose.com
+:uri_5: https://www.ribose.com
+:street_5: Suite 1111, 1 Pedder Street
+:city_5: Central
+:region_5: Hong Kong
+:country_5: Hong Kong
+
