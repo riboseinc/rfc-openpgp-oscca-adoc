@@ -23,7 +23,7 @@ strengthening features including a more complex step function and stronger
 message dependency than SHA-256 <<SM3-Boomerang>>.
 
 SM3 produces an output hash value of 256 bits long, based on 512-bit
-input message blocks <<SM3-Boomerang>>, on input lengths up to math:[2^(m)].
+input message blocks <<SM3-Boomerang>>, on input lengths up to stem:[2^(m)].
 
 The specification of SM3 is described in <<GBT.32905-2016>>, <<SM3>> and
 <<I-D.shen-sm3-hash>>.
