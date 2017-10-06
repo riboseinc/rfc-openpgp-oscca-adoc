@@ -58,9 +58,10 @@ K is defined as follows.
   if n is a whole number then
     Ha! = Ha_{Ceil(n)}
   else
-    Ha! = MSB(KEYLEN − (v x Floor(n)), Ha_{Ceil(n)})
+    Ha! = MSB(KEYLEN - (v x Floor(n)), Ha_{Ceil(n)})
   end if
 
-  K = Ha_1 || Ha_2 || ... || Ha_{Ceil(n)−1} || Ha!
+  K = Ha_1 || Ha_2 || ... || Ha_{Ceil(n)-1} || Ha!
 ```
+// These are two instances of minus
 
