@@ -9,6 +9,7 @@ Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jac
 :workgroup: Network Working Group
 :lastname: Tse
 :fullname: Ronald Henry Tse
+:forename_initials: R. H.
 :organization: Ribose
 :email: ronald.tse@ribose.com
 :uri: https://www.ribose.com
@@ -18,6 +19,7 @@ Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jac
 :country: Hong Kong
 :lastname_2: Wong
 :fullname_2: Dr. Wai Kit Wong
+:forename_initials_2: W. K.
 :organization_2: Hang Seng Management College
 :email_2: wongwk@hsmc.edu.hk
 :uri_2: https://www.hsmc.edu.hk
@@ -27,12 +29,14 @@ Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jac
 :country_2: Hong Kong
 :lastname_3: Lloyd
 :fullname_3: Jack E. Lloyd
+:forename_initials_3: J. E.
 :organization_3: Ribose
 :email_3: jack@randombit.net
 :uri_3: https://www.ribose.com
 :country_3: United States of America
 :lastname_4: Wyatt
 :fullname_4: Daniel Elliot Wyatt
+:forename_initials_4: D. E.
 :organization_4: Ribose
 :email_4: daniel.wyatt@ribose.com
 :uri_4: https://www.ribose.com
@@ -42,6 +46,7 @@ Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jac
 :country_4: United States of America
 :lastname_5: Borsboom
 :fullname_5: Erick Borsboom
+:forename_initials_5: E.
 :organization_5: Ribose
 :email_5: erick.borsboom@ribose.com
 :uri_5: https://www.ribose.com
