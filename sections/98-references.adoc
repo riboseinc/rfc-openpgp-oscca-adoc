@@ -653,9 +653,10 @@ Security Standardisation Research pp 140-153 -->
       </address>
     </author>
     <author initials="X." surname="Zhang" fullname="Xiangmin Zhang">
-      <organization>Datang Microelectronics Technololgy Co., Ltd</organization>
+      <organization>Datang Microelectronics Technology Co., Ltd</organization>
       <address>
         <postal>
+          <street>6 Yongjia North Road, Haidian District</street>
           <city>Beijing</city>
           <country>People's Republic of China</country>
         </postal>
