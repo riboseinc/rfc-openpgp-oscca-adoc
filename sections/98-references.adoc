@@ -1181,4 +1181,165 @@ Security Standardisation Research pp 140-153 -->
     <date month='August' year='2015'/>
   </front>
 </reference>
+
+<reference anchor='RFC6150' target='https://tools.ietf.org/html/rfc6150'>
+  <front>
+    <title>MD4 to Historic Status</title>
+    <author initials="S." surname="Turner">
+      <organization>IECA</organization>
+    </author>
+    <author initials="L." surname="Chen">
+      <organization>NIST</organization>
+    </author>
+    <date month='March' year='2011'/>
+  </front>
+  <seriesInfo name="RFC" value="6150"/>
+</reference>
+
+<reference anchor='RFC4880' target='https://tools.ietf.org/html/rfc4880'>
+  <front>
+    <title>OpenPGP Message Format</title>
+    <author initials="J." surname="Callas">
+      <organization>PGP Corporation</organization>
+    </author>
+    <author initials="L." surname="Donnerhacke">
+      <organization>IKS GmbH</organization>
+    </author>
+    <author initials="H." surname="Finney">
+      <organization>PGP Corporation</organization>
+    </author>
+    <author initials="D." surname="Shaw">
+    </author>
+    <author initials="R." surname="Thayer">
+    </author>
+    <date month='November' year='2007'/>
+  </front>
+  <seriesInfo name="RFC" value="4880"/>
+</reference>
+
+<reference anchor='RFC2119' target='https://tools.ietf.org/html/rfc2119'>
+  <front>
+    <title>Key words for use in RFCs to Indicate Requirement Levels</title>
+    <author initials="S." surname="Bradner">
+      <organization>Harvard University</organization>
+    </author>
+    <date month='March' year='1997'/>
+  </front>
+  <seriesInfo name="RFC" value="2119"/>
+</reference>
+
+<reference anchor='RFC6637' target='https://tools.ietf.org/html/rfc6637'>
+  <front>
+    <title>Elliptic Curve Cryptography (ECC) in OpenPGP</title>
+    <author initials="A." surname="Jivsov">
+      <organization>Symantec Corporation</organization>
+    </author>
+    <date month='June' year='2012'/>
+  </front>
+  <seriesInfo name="RFC" value="6637"/>
+</reference>
+
+<reference anchor='RFC6234' target='https://tools.ietf.org/html/rfc6234'>
+  <front>
+    <title>US Secure Hash Algorithms (SHA and SHA-based HMAC and HKDF)</title>
+    <author initials="D." surname="Eastlake 3rd">
+      <organization>Huawei</organization>
+    </author>
+    <author initials="T." surname="Hansen">
+      <organization>AT&amp;T Labs</organization>
+    </author>
+    <date month='May' year='2011'/>
+  </front>
+  <seriesInfo name="RFC" value="6234"/>
+</reference>
+
+<reference anchor='RFC8126' target='https://tools.ietf.org/html/rfc8126'>
+  <front>
+    <title>Guidelines for Writing an IANA Considerations Section in RFCs</title>
+    <author initials="M." surname="Cotton">
+      <organization>PTI</organization>
+    </author>
+    <author initials="B." surname="Leiba">
+      <organization>Huawei Technologies</organization>
+    </author>
+    <author initials="T." surname="Narten">
+      <organization>IBM Corporation</organization>
+    </author>
+    <date month='June' year='2017'/>
+  </front>
+  <seriesInfo name="RFC" value="8126"/>
+</reference>
+
+<reference anchor='RFC7253' target='https://tools.ietf.org/html/rfc7253'>
+  <front>
+    <title>Guidelines for Writing an IANA Considerations Section in RFCs</title>
+    <author initials="T." surname="Krovetz">
+      <organization>Sacramento State</organization>
+    </author>
+    <author initials="P." surname="Rogaway">
+      <organization>UC Davis</organization>
+    </author>
+    <date month='May' year='2014'/>
+  </front>
+  <seriesInfo name="RFC" value="7253"/>
+</reference>
+
+<reference anchor='I-D.ribose-cfrg-sm4' target='https://tools.ietf.org/html/draft-ribose-cfrg-sm4-01'>
+  <front>
+    <title>The SM4 Block Cipher Algorithm And Its Modes Of Operations</title>
+    <author initials="R." surname="Tse">
+      <organization>Ribose</organization>
+    </author>
+    <author initials="W." surname="Wong">
+      <organization>Hang Seng Management College</organization>
+    </author>
+    <date day='12' month='September' year='2017'/>
+  </front>
+  <seriesInfo name="Internet-Draft" value="draft-ribose-cfrg-sm4-01"/>
+</reference>
+
+<reference anchor='I-D.shen-sm2-ecdsa' target='https://datatracker.ietf.org/doc/draft-shen-sm2-ecdsa/'>
+  <front>
+    <title>SM2 Digital Signature Algorithm</title>
+    <author initials="S." surname="Shen">
+      <organization>Chinese Academy of Science</organization>
+    </author>
+    <author initials="X." surname="Lee">
+      <organization>Chinese Academy of Science</organization>
+    </author>
+    <date day='14' month='February' year='2014'/>
+  </front>
+  <seriesInfo name="Internet-Draft" value="draft-shen-sm2-ecdsa-02"/>
+</reference>
+
+<reference anchor='I-D.ietf-msec-mikey-ecc' target='https://datatracker.ietf.org/doc/draft-ietf-msec-mikey-ecc/'>
+  <front>
+    <title>ECC Algorithms for MIKEY</title>
+    <author initials="D." surname="Brown">
+      <organization>Certicom Corp.</organization>
+    </author>
+    <author initials="E." surname="Chin">
+      <organization>Certicom Corp.</organization>
+    </author>
+    <author initials="C." surname="Tse">
+      <organization>Certicom Corp.</organization>
+    </author>
+    <date day='11' month='June' year='2007'/>
+  </front>
+  <seriesInfo name="Internet-Draft" value="draft-ietf-msec-mikey-ecc-03"/>
+</reference>
+
+<reference anchor='I-D.shen-sm3-hash' target='https://datatracker.ietf.org/doc/draft-shen-sm3-hash/'>
+  <front>
+    <title>SM3 Hash function</title>
+    <author initials="S." surname="Shen">
+      <organization>Chinese Academy of Science</organization>
+    </author>
+    <author initials="X." surname="Lee">
+      <organization>Chinese Academy of Science</organization>
+    </author>
+    <date day='11' month='June' year='2007'/>
+  </front>
+  <seriesInfo name="Internet-Draft" value="draft-shen-sm3-hash-01"/>
+</reference>
 ++++

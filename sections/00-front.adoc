@@ -1,7 +1,7 @@
 = OSCCA Extensions For OpenPGP
 Ronald Henry Tse <ronald.tse@ribose.com>; Wai Kit Wong <wongwk@hsmc.edu.hk>; Jack E. Lloyd <jack@randombit.net>; Daniel Elliot Wyatt <daniel.wyatt@ribose.com>; Erick Borsboom <erick.borsboom@ribose.com>
 :category: std
-:docName: draft-openpgp-oscca-02
+:doc-name: draft-openpgp-oscca-02
 :updates: 4880, 6637
 :ipr: trust200902
 :date: 2017-09-14T00:00:00Z
