@@ -424,8 +424,6 @@
   </front>
 </reference>
 
-GM/T 0009-2012
-
 <reference anchor='SM4' target='http://www.oscca.gov.cn/UpFile/200621016423197990.pdf'>
 <!-- <reference anchor='SM4' target='http://info.dacas.cn/sharedimages/ARTICLES/SMAlgorithms/SM4.pdf'> -->
   <front>
