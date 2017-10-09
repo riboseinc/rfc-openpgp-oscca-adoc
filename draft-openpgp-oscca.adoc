@@ -1,7 +1,6 @@
 include::sections/00-front.adoc[]
 include::sections/00-abstract.adoc[]
 
-
 include::sections/01-intro.adoc[]
 include::sections/02-conventions.adoc[]
 include::sections/03-sm2.adoc[]

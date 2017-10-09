@@ -1,5 +1,5 @@
 [#sm2-kdf]
-== SM2 Key Derivation Function 
+== SM2 Key Derivation Function
 
 A key derivation function (KDF) is necessary to implement EC encryption.
 
@@ -37,16 +37,21 @@ need to follow the document's conventions
 
 === Inputs
 
-KEYLEN:: Desired key length. A positive integer less than stem:[(2^32 - 1) x v].
-Z:: Plaintext. String of any length.
+KEYLEN::
+  Desired key length. A positive integer less than stem:[(2^32 - 1) x v].
+
+Z::
+  Plaintext. String of any length.
 
 === Outputs
 
-K:: Generated key. String of length KEYLEN.
+K::
+  Generated key. String of length KEYLEN.
 
 K is defined as follows.
 
-```
+[source]
+----
   Counter = 1                  // a 32-bit counter
   n = KEYLEN / v
 
@@ -62,6 +67,4 @@ K is defined as follows.
   end if
 
   K = Ha_1 || Ha_2 || ... || Ha_{Ceil(n)-1} || Ha!
-```
-// These are two instances of minus
-
+----

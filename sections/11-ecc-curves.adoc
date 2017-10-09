@@ -1,5 +1,5 @@
 [#sm2-curve]
-== SM2 ECC Curve OID 
+== SM2 ECC Curve OID
 
 NOTE: TODO: what other curves are available? GmSSL lists 3 other ones.
 

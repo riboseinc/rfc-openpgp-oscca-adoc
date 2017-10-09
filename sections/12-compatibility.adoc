@@ -1,4 +1,4 @@
-==  Compatibility Profiles
+== Compatibility Profiles
 
 === OSCCA SM234 Profile
 
